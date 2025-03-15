@@ -355,16 +355,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-multiple-timescale-spectral-analysis-of-floating-structures",
+          title: 'Multiple Timescale Spectral Analysis of Floating Structures',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-ll-be-attending-iabmas-with-cowi-on-26-06-see-you-soon",
+          title: 'I’ll be attending IABMAS with COWI on 26/06, see you soon!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
