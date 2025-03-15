@@ -1,34 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D., SHM Specialist at COWI Transportation International in Denmmark
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  box-shadow: none
+  borders: none
 
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to this website, where I get you through my past experience and my vision for what is next in the field of <span class="font-weight-bold">Structural Health Monitoring</span>...! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I consider myself to be quite a versatile research engineer, committed to translating complex technical concepts into actionable insights, excited by the opportunity to bridge the gap between academic and industry concerns, and keen to use innovative approaches to address the challenges faced when dealing with practical applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Belgian national, essentially living abroad since I completed my Ph.D. at the University of Liège in 2022, and currently working on the large-scale monitoring projects of COWI Transportation International, in Denmark. I am responsible for the development, the implementation, and the supervision of an in-house processing strategy dedicated to assessing the loading state of the supporting structures used during the excavation of a rock tunnel in Sweden. I am also involved in performing and documenting periodic health checks based on data recorded at the Normandie, Tancarville and Grand Canal Bridges in the North of France. 
+
+Before that, I conducted some postdoctoral research at the University of Notre Dame, in the United States of America. This position was supported by a Francqui Fellowship of the Belgian American Education Foundation. Explanations about where I went and what I did can be found <a href="https://www.uee.uliege.be/cms/c_8944062/en/margaux-geuzaine-researcher-in-structural-and-stochastic-dynamics-is-awarded-a-baef-fellowship-for-a-postdoctoral-stay-at-the-university-of-notre-dame"><span class="font-weight-bold">here</span></a>.
