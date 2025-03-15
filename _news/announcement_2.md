@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multiple Timescale Spectral Analysis of Floating Structures
-date: 2022-06-26 16:11:00-0400
+date: 2022-06-24 16:11:00-0400
 inline: false
 related_posts: false
 ---
